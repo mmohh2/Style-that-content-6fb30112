@@ -21,3 +21,16 @@ li a {
 li a:hover {
     background-color: #111;
 }
+.content {
+    padding: 14px 120px;
+    text-align: center;
+    background-color: rgba(255, 212, 132, 0.671);
+}
+
+.news {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-shrink: 0;
+}
